@@ -11,8 +11,8 @@ def cls():
 RS3_Base_URL = "https://services.runescape.com/m=hiscore/index_lite.ws?player="
 OSRS_Base_URL = "https://services.runescape.com/m=hiscore_oldschool/index_lite.ws?player="
 
-NameListFile = os.getcwd() + "/Names_List.txt"
-AvaNames = os.getcwd() + "/Available_Names.txt"
+NameListFile = os.getcwd() + "/names-list.txt"
+# AvaNames = os.getcwd() + "/Available_Names.txt"
 time1 = None
 time2 = None
 
